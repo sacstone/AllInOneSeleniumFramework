@@ -15,6 +15,7 @@ public class DemoTest {
     public void testLogin(){
 
 
+        //local, remote(selenium, selenoid, browserstack): chrome, firefox
 
         System.out.println(ConfigFactory.getConfig().browser());
 //
